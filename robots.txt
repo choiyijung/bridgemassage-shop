@@ -8,4 +8,4 @@ Disallow: /join.html
 Disallow: /mypage.html
 Disallow: /shop.html
 
-Sitemap: https://sodamtherapy.store/sitemap.xml
+Sitemap: https://bridgemassage-shop.netlify.app/sitemap.xml
